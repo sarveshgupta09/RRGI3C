@@ -1,0 +1,7 @@
+Selectors
+Flex-boxes
+Grid-boxes
+media Queries - Responsive
+Border and Properties
+Pseudo-class/Elements
+BootStrap

@@ -1,0 +1,21 @@
+HTML
+
+Hyper text - Linking of the html pages
+Mark Up language -- By using html elements building the html structure
+
+Semantic elements -- have specific meaning
+
+non-Semants elements -- Doesnt have nay Specific meaning
+
+HTML Attributes - Having Extra features
+Ex - IMG , Anchor , Style
+
+Input Methods - All
+email , password, checkbox, button , number , radio, button , Data and Time, Files
+
+Audio , video and Youtube video tags 
+
+ordered , unordered and defination list 
+
+Sub and super script
+

@@ -1,0 +1,33 @@
+#main{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    background-image: url(https://cdn.pixabay.com/photo/2020/04/16/11/13/background-5050213_1280.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: #5C4A46;
+    text-align: center;
+}
+
+button{
+ border-radius: 12px;
+ margin-top: 20px;
+ align-items: center;
+}
+.s-form{
+    margin-left: 100px;
+    align-items: center;
+}
+.text-area-message{
+    margin-top: 10px;
+}
+
+label{
+    margin-top: 10px;
+}
+
+input{
+background-color:greenyellow;
+}
