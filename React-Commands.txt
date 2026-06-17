@@ -1,0 +1,5 @@
+npm create vite@latest -- for creating react App
+npm install <Package-Name> or npm i <package-name> -- for installing dependencies
+npm run dev -- for running react 
+npm install taiwindcss @tailwindcss/vite -- for tailwindcss
+npm install react-router-dom -- routing and navigation
