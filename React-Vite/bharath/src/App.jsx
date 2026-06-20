@@ -14,6 +14,7 @@ import Home from './Home'
 import Memo from './Hooks/Memo'
 import Portfolio from './Hooks/Portfolio'
 import {BrowserRouter , Route ,Routes} from 'react-router-dom'
+import Callback from './Hooks/Callback'
 
 const App = () => {
  
@@ -36,6 +37,7 @@ const App = () => {
   <Route path='/signupform' element={<Forms/>}/>
     <Route path='/memo' element={<Memo/>}/>
      <Route path='/portfolio' element={<Portfolio/>}/>
+          <Route path='/callback' element={<Callback/>}/>
 </Routes>
 </BrowserRouter>
 
