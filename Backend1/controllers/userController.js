@@ -51,5 +51,12 @@ try {
 }
 }
 
+const uploadFiles = async (req,res) => {
+    try {
+        res.status(200).json({ message: 'File uploaded'})
+    } catch (error) {
+        res.status(400).json(error)
+    }
+}
 
-module.exports = {login,register , dashboard }
+module.exports = {login, register, dashboard, uploadFiles }

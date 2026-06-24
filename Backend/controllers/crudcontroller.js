@@ -82,4 +82,12 @@ try {
 }
 }
 
-module.exports ={getStudent,getStudentByid,deleteStudent,updateStudent,register,login}
+const uploadFiles =async(req,res) =>{
+try {
+    res.status(200).json({message:"File Uploaded"})
+} catch (error) {
+    res.status(400).json(error)
+}
+}
+
+module.exports ={getStudent,getStudentByid,deleteStudent,updateStudent,register,login , uploadFiles}
