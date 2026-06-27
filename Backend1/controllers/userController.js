@@ -43,15 +43,15 @@ try {
     port:465,
     secure:true,
     auth:{
-        user:"bharathsimhareddyv19@gmail.com",
-        pass:"ekdk uhtn gtpj etez"
+        user:"your mail",
+        pass:"your id"
     },
     tls:{
         rejectUnauthorized:false
     }
    })
    trasporter.sendMail({
-    from:"bharathsimhareddyv19@gmail.com",
+    from:"your mail",
     to:`${addUser.email}`,
     subject:"Conifirming of registration",
     text:"Registeration Sucessfull "
